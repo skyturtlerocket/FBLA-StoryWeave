@@ -1,0 +1,111 @@
+[
+    {
+        "name": "Moving Schools",
+        "story-text": [
+            [
+                "You've moved into a new school district, and you feel pretty lonely at the new high school. A seemingly friendly student by the name of John invites you over to his party. However, you've overheard some other students talk about some of the questionable things John does. Do you go to his party?"
+            ],
+            [
+                "You've decided to go to the party with him. You don't really know what kind of a person John is, but you decide it's a good idea to make some friends. At the party, John offers you a drink. You're only 16, so you must wait 5 more years until you can drink. However, everyone else is drinking. Do you take the drink or do you decline?",
+                "You decide to take it, because literally everyone else is drinking. Suddenly, a bunch of police officers enter the house. A noise complaint had been filed but the police smelled the alcohol, and entered. You're fined 500 dollars, and your parents are very mad at you. You learn that you need to be careful of who you become friends with.",
+                "You decide not to take the drink. Everyone around you is shooting weird looks, but suddenly you hear sirens outside. It turns out the police had received a noise complaint, and when they entered the party, they discovered underage drinkers. You got off the hook because you didn't drink. You feel proud of yourself for not succumbing to peer pressure and realize you need to be careful of who you make friends with."
+            ],
+            [
+                "You decline his invitation. John gives you a condescending face but leaves you alone. You wonder if you made the right decision or not, but decide to not think much of it. The next day, you hear from fellow classmates that the party got busted for having alcohol. You feel relieved that you didn't go. This time, another student invites you to sit with him at lunch. Do you accept, or do you decline?",
+                "You decide to eat lunch with this student. He turns out to be a pretty chill dude, and he explains to you what kinds of people some of the students at this high school are. You decide he's just a chill guy and you're glad you've made a step in being a part of the school.",
+                "You decline his invitation to eat lunch with you. You've become paranoid after hearing about the incident with John, and you become a loner at this school. You hate your school because you don't have a social life there."
+            ]
+        ],
+        "options": [
+            [
+                "Accept his invitation",
+                "Decide to drink",
+                "Decide it's a bad idea"
+            ],
+            [
+                "Decline it",
+                "I decide to eat lunch with him",
+                "I decline his invitation"
+            ]
+        ],
+        "reports": [
+            "<b>Report</b>: <br>You've decided to go to a party as a new student at a school. However, you've made some bad friends, and got peer pressured into underaged drinking. You must be more careful of who you decide to be friends with.<br><br>Here are the choices you made.<br><br>1. You joined a new school.<br> 2. You accepted John's party invitation<br> 3. You caved into peer pressure into underaged drinking.",
+            "<b>Report</b>: <br>You've decided to goto a party as a newstudent at a school. You were pressured into drinking, but standed firm in your values. Congratulations.<br><br>Here are the choices you made.<br><br>1. You joined a new school.<br> 2. You accepted John's party invitation.<br> 3. You decided not to drink underage.",
+            "<b>Report</b>: <br>You've decided to decline a party invitation from John but instead accepted a lunch invitation from another student. You've made the right decision as this other student is a good person, while the party got busted for underage drinking.<br><br>Here are the choices you made.<br><br>1. You joined a new school.<br> 2. You rejected the party invitation.<br> 3. You accepted another student's lunch invitation.",
+            "<b>Report</b>: <br>You're a new student at a school. You've declined a party invitation because you didn't want to go, but after you heard there was underage drinking at the party, you've isolated yourself at the school. You declined a lunch invitation with a person with good intentions. <br><br>Here are the choices you made.<br><br>1. You joined a new school <br> 2. You rejected a party invitation<br> 3. You rejected a lunch invitation and became a loner at the school."
+        ]
+
+    },
+    {
+        "name": "The Lost Artifact",
+        "story-text": [
+            [
+                "You are an adventurer who stumbles upon a very ancient temple deep in the jungle. Inside, you find clues that hint at a legendary artifact said to grant its possessor untold power. The path to the treasure is filled with traps, mysteries, and moral decisions. The choices you make will determine your fate: leave with the treasure or die from your wrong decisions. You step into the dimly lit temple, the air mysteriously foggy. In front of you, there are 2 paths you must choose from."
+            ],
+            [
+                "You venture into the dark tunnel, brushing past cobwebs. The markings glow faintly, and you realize they display a warning: The greedy shall perish. As you progress, you hear faint, ominous whispers. At the end of the tunnel, you find a glowing pool. What do you do?",
+                "You decide to take a sip from the pool. Warmth spreads through your body, but suddenly, you feel your limbs stiffen. You can't move. The whispers grow louder, mocking you. You’ve fallen victim to a curse meant for the greedy. You become a statue, forever guarding the temple.",
+                "Resisting temptation, you press onward into the heart of the temple. You find a hidden chamber filled with ancient scrolls. Among them is the artifact. You take it, but its inscription warns: Great power demands great sacrifice. You leave the temple with a feeling you can't describe. You're glad that you found the artifact you were looking for but scared at the same time because you don't know what this artifact can do to you."
+            ],
+            [
+                "You descend the grand staircase, the sound of your footsteps echoing ominously. At the bottom, you find a massive stone door. Symbols etched into the door. A voice booms in your mind: Prove your worth to proceed.",
+                "You decipher the riddle, and the stone door slides open. Inside, you find the artifact on a pedestal. As you take it, the room begins to collapse! You narrowly escape, the artifact in hand, and you feel powerful. You have succeeded.",
+                "You push against the door with all your might. It creaks open, but a trap is triggered! Spears fly from the walls, and the temple begins to flood. You have made the wrong decision. As the spears pierce your body, you drown in the flood."
+            ]
+        ],
+        "options": [
+            [
+                "Narrow, dim tunnel that you find on your map",
+                "Drink from the pool",
+                "Ignore it"
+            ],
+            [
+                "A staircase that leads to the heart of the temple",
+                "Attempt to solve the riddle on the door",
+                "Try to force the door open"
+            ]
+        ],
+        "reports": [
+            "<b>Report</b>: <br>You were an adventurer who discovers a massive temple rumored to contain the legendary lost artifact. Inside the temple, you decide to go through a narrow, dim tunnel on your map. You screw up really badly from drinking from the glowing pool, which leads to your demise. Don't be greedy!<br><br>Here are the choices you made.<br><br>1. You entered the temple you found.<br> 2. You went through a narrow tunnel in the temple.<br> 3. You drank from the pool, leading to your demise.",
+            "<b>Report</b>: <br>You discovered a massive temple in the jungle, rumored to contain the artifact you were searching for many years. Inside the temple, you decide to go through the temple by way of tunnel. You come acrosss a pool of glowing water, but ignore as you must reach your mission. You find the artifact hidden in a chamber. You have succeeded and now have power untold.<br><br>Here are the choices you made.<br><br>1. You entered the temple you found while exploring the jungle.<br> 2. You decided to explore the temple by way of tunnel.<br> 3. You pressed onward to obtain the legendary artifact.",
+            "<b>Report</b>: <br>You discovered a massive temple in the jungle, rumored to contain the legendary artifact. You enter, and you go straight to the heart of the temple, where a large stone door is blocking the entrance to the room with the artifact. You realize you must solve the riddle written on the door. As you solve it, the door opens and you obtain the artifact. However, the room suddenly collapses and you escape with power untold.<br><br>Here are the choices you made.<br><br>1. You entered the temple you discovered in the jungle.<br> 2. You explore the temple by going straight to the center of it.<br> 3. You solve the riddle, and obtain the artifact!",
+            "<b>Report</b>: <br>You discovered a massive temple in the jungle, rumored to contain an artifact that you've been searching for years to find. Inside the temple, you go straight to the center, which is where the artifact is rumored to be. You find a large stone door covering the entrance to the chamber containing the artifact, but instead of solving the riddle, you push against the door, leading to your demise.<br><br>Here are the choices you made.<br><br>1. You entered the temple.<br> 2. You decided to go straight to the center.<br> 3. You ignored the riddle and pushed on the door, activating a trap."
+        ]
+    },
+    {
+        "name": "Time Machine",
+        "story-text": [
+            [
+                "You're a scientist who's developed a time machine. However, due to an engineering flaw, you only have one chance to be in the time machine. You must choose whether to go to the past or the future, but you cannot choose the exact date in the past/future. Where do you choose to go?"
+            ],
+            [
+                "You've traveled to a past historical event. You hear loud explosions and screams. The air is filled with smoke. You've traveled to a country where revolution is brewing. A man approaches you, seeming to be a leader of the revolution. He asks you for help. What do you do?",
+                "You decide to help the revolutionaries, and the revolutionaries succeed. However, instead of becoming the saviors of the country they promised, they become ruthless dictators. History is changed, and you are remembered as a mysterious entity who gave rise to a new dictatorship.",
+                "You decide to ignore the revolutionaries. They fail, and the country continues to suffer under the old government. As you watch the events unfold, you wonder if you should have intervened to make the lives of the people better."
+            ],
+            [
+                "You arrive in a futuristic city with advanced technologies you've never seen before. As you look around, a mysterious person confronts you. The person says that you have endangered them by arriving from the past uninvited. He gives you 2 choices.",
+                "You decide to join them and learn about the advancements they have made since your time. However, you soon realize they don't have good intentions. They manipulate you into changing the past for their benefit.",
+                "You evade the mysterious person by entering back into your time capsule. As you are going back to your time, your time capsule malfunctions. You are now an entity, almost like a ghost, that mysteriously appears and disappears throughout periods of time."
+            ]
+        ],
+        "options": [
+            [
+                "Past",
+                "Use your knowledge to help the revolutionaries",
+                "Ignore him, don't change history"
+            ],
+            [
+                "Future",
+                "Join them and live in the future",
+                "Escape back to your own time"
+            ]
+        ],
+        "reports": [
+            "<b>Report:</b> <br>You time traveled to the past and changed history forever by helping the revolutionaries become tyrants. <br><br> Here are the choices you made.<br><br> 1. You built a time machine that had a flaw. <br> 2. You decided to travel to the past. <br> 3. You decided to help the revolutionaries, but this changed history forever as they became tyrants.",
+            "<b>Report:</b> <br>You time traveled to the past and did not change history, as the countries old tyrannical government was reinstated. <br><br> Here are the choices you made. <br><br> 1. You built a time machine that had a flaw. <br> 2. You decided to travel to the past. <br> 3. You didn't help the revolutionaries, keeping history the same.",
+            "<b>Report:</b> <br>You time traveled to the future and joined the futuristic society. However, you were tricked. You were forced to help their evil plans.  <br><br>Here are the choices you made.<br><br> 1. You built a time machine with a flaw. <br> 2. You decided to travel to the future. <br> 3. You decided to join the futuristic society.",
+            "<b>Report:</b> <br>You time traveled to the future and tried to escape the futuristic society. However, you were lost forever in time as your capsule malfunctions. <br><br>Here are the choices you made.<br><br> 1. You built a time machine with a flaw. <br> 2. You decided to travel to the future. <br> 3. You tried to escape the evil society, but you got lost forever in time as your time capsule malfunctioned."
+        ]
+    }
+]

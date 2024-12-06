@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Help</title>
+        <!--Import CSS-->
+        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <!-- navbar-->
+    <nav class="navbar">
+        <!-- Left side of navbar-->
+        <div class="navbar-left">
+            <a href="/" class="navbar-logo">
+                <img src="images/logo.png" alt="StoryWeave">
+            </a>
+        </div>
+        <!-- Right side of navbar-->
+        <div class="navbar-right">
+            <a href="/explore">Explore</a>
+            <a href="/instructions">Instructions</a>
+            <a class="active" href="/help">Help</a>
+            <a href="/about">About</a>
+        </div>
+    </nav>
+
+    <h1>What can I help you with today?</h1>
+    <h2>Click on a question to get an answer!</h2>
+    <center>
+    <div class="links">
+        <button  id="btn1" class="unpressed-button">How do I stop a story?</button>
+        <button  id="btn2" class="unpressed-button">Are there multiple story endings?</button>
+        <button  id="btn3" class="unpressed-button">How do I skip the text typing animation for each story?</button>
+        <button  id="btn4" class="unpressed-button">How do I suggest new stories?</button>
+        <button  id="btn5" class="unpressed-button">How do I report a bug/glitch on this website?</button>
+        <button  id="btn6" class="unpressed-button">Is this available offline?</button>
+        <button  id="btn7" class="unpressed-button">Can you help me find a story?</button>
+        <button  id="btn8" class="unpressed-button">Other</button>
+    </div></center>
+    <br />
+    <div id="text_box" class="storyDiv"></div>
+    <center><button  id="btnClear" class="unpressed-button">Clear Text</button></center>
+    <!--Import JS-->
+    <script src="help.js"></script>
+</body>
+</html>

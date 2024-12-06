@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="website-title">Story Builder</title>
+    <!--Import CSS-->
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- navbar-->
+    <nav class="navbar">
+        <!-- Left side of navbar-->
+        <div class="navbar-left">
+            <a href="/" class="navbar-logo">
+                <img src="images/logo.png" alt="StoryWeave">
+            </a>
+        </div>
+        <!-- Right side of navbar-->
+        <div class="navbar-right">
+            <a href="explore">Explore</a>
+            <a href="instructions">Instructions</a>
+            <a href="help">Help</a>
+            <a href="/about">About</a>
+        </div>
+    </nav>
+    <!--title of the story-->
+    <h1 id="title_story"></h1>
+    <!--text box where the story will be animated inside-->
+    <div class="storyDiv" id="txt0">Click Start to begin the story!</div>
+    <!--buttons that the user can press to control the story-->
+    <div class="content">
+        <button style="border: 2px solid #8aff80;" id="btnStart" class="button-1">Start story!</button>
+        <button style="display: none; border: 2px solid #575bd4;" id="storyOption1" class="button-1">Option 1</button>
+        <button style="display: none; border: 2px solid #575bd4;" id="storyOption2" class="button-1">Option 2</button>
+        <button style="display: none; border: 2px solid #ff6f61;" id="stopBtn" class="button-1">Stop Story</button>
+        <button style="display: none; border: 2px solid #e0e0ff;" id="skipBtn" class="button-1">Skip Animation</button>
+    </div>
+
+</body>
+<!--import the JS-->
+<script type="module" src="story.js"></script>
+</html>

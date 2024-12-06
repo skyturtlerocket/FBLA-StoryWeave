@@ -1,0 +1,43 @@
+[
+    {
+        "question-id": 1,
+        "question": "How do I stop a story?",
+        "answer": "To stop a story, select the <b>STOP</b> button while interacting with the story."
+    },
+    {
+        "question-id": 2,
+        "question": "Are there multiple story endings?",
+        "answer": "Yes! Every story allows you to choose your own way in the story, which would cause different endings for each option you select."
+    },
+    {
+        "question-id": 3,
+        "question": "How do I skip the text typing animation for each story?",
+        "answer": "There is a <b>Skip Animation</b> button on the bottom of each story. Select this to skip the animation."
+    },
+    {
+        "question-id": 4,
+        "question": "How do I suggest new stories?",
+        "answer": "Reach out to me through the contact info on the <a href='/about'>About</a> page."
+    },
+    {
+        "question-id": 5,
+        "question": "How do I report a bug/glitch on this website?",
+        "answer": "To report a bug or a glich, please reach out to me through the contact info on the <a href='/about'>About</a> page."
+    },
+    {
+        "question-id": 6,
+        "question": "Is this available offline?",
+        "answer": "Since this is a website, you cannot access this offline. To run StoryWeave offline, a user should contact us for the source code and follow the instructions in the README."
+    },
+    {
+        "question-id": 7,
+        "question": "Can you help me find a story?",
+        "answer": "If you have trouble finding a story, hover over each story to get a brief description and tags which categorize the story. If the description or category appeals to you, try it out! Also, don't be afraid to try anything new."
+    },
+    {
+        "question-id": 8,
+        "question": "Other",
+        "answer": "If you have a different question on here that can't be answered, or would like to contact the creator for another reason, please reach out to me through the contact info on the <a href='/about'>About</a> page."
+    }
+    
+]
