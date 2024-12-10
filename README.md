@@ -3,6 +3,8 @@ My submission for the FBLA Introduction to Programming SLC.
 Project Name: StoryWeave
 Developed By: Timothy Ha
 
+NOTE: The link in the description does not work anymore as I was using Vercel to only test it.
+
 MOTIVATION AND DEVELOPMENT
 
 Interactive stories allows users to have a more immersive experience while reading, but sometimes interactive stories can be hard to find.
