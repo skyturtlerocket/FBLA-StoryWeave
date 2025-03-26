@@ -38,8 +38,13 @@
 .explore-links {
   display:flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content:center;
   gap: 16px;
+}
+.stories {
+  display:flex;
+  gap:16px;
+  margin-left: 2%;
 }
 .links {
   display:flex;
@@ -132,8 +137,12 @@
   align-items: center;
   gap:10px;
 }
+.explore-content {
+  height:100vh;
+}
 body {
   background-color: #202123;
+  margin:0;
 }
 h1 {
   display: block;
@@ -158,6 +167,24 @@ h2 {
   font-weight: bold;
   color: #ececf1;
   font-family: 'Inter', sans-serif;
+}
+h3 {
+  display: block;
+  font-size: 1.75em;
+  max-width:fit-content;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 2%;
+  font-weight: bold;
+  color: #ececf1;
+  font-family: 'Inter', sans-serif;
+}
+footer {
+  background-color: #515151;
+  margin:0;
+  bottom:0;
+  font-family: 'Inter', sans-serif;
+  color: #ececf1;
 }
 a:visited {
   color: #ececf1;
